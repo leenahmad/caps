@@ -64,7 +64,7 @@ Create a UML diagram of the CAPS system on a whiteboard before you start.
 
 ### links 
 
-[pull link](https://github.com/leenahmad/caps/pull/2)
+[pull link](https://github.com/leenahmad/caps/pull/4)
 
 [action link](https://github.com/leenahmad/caps/actions)
 
