@@ -5,7 +5,7 @@ const events = require('./lib/events');
 require('./module/vendor.js');
 require('./module/driver.js');
 
-events.on('pickup' , (payload) => {
+events.on('pickup2' , (payload) => {
     let event = {
         event: 'pickup',
         time: new Date(),
