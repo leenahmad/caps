@@ -12,7 +12,7 @@ events.on('pickup' , (payload) => {
     };
     console.log('event' , event);
 
-    console.log(`DRIVER: picked up ${payload.orderId}`);
+    console.log(`DRIVER: pickedup2 ${payload.orderId}`);
 
     events.emit('in-transit' , payload);
 
